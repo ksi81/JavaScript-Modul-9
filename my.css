@@ -1,0 +1,35 @@
+.stopwatch {
+  text-align: center;
+  font-size: 25px;
+  background-color: aqua;
+  width: 300px;
+  margin: auto;
+}
+.stopwatch p {
+  font-size: 45px;
+  color: blue;
+}
+.btn{
+  background-color: bisque;
+  color: deeppink;
+  min-width: 70px;
+  border: 2px solid deeppink;
+  border-radius: 9px;
+}
+.btn:disabled {
+  background: #dddddd;
+}
+ol {
+  text-align: center;
+  font-size: 15px;
+  background-color: papayawhip;
+  width: 280px;
+  margin: auto;
+  margin-top: 5px;
+  border-radius: 14px;
+  padding-top: 10px;
+  padding-bottom: 1px;
+}
+hr{
+  width: 80%;
+}
